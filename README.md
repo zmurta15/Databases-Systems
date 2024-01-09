@@ -5,4 +5,3 @@
 > Project: Detailed Report about PostgresSQL
 
 > Extra projects
-
